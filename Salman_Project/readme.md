@@ -1,4 +1,5 @@
-![WhatsApp Image 2021-07-21 at 12 25 13 AM](https://user-images.githubusercontent.com/86197852/126384407-f433bb32-d97e-4414-9557-b62bacc29b47.jpeg)
+![svm](https://user-images.githubusercontent.com/86187568/126391083-f6ac5c97-3844-4b88-969a-69e66e775d64.jpg)
+
 ```
 # SVM
 import pandas as pd
