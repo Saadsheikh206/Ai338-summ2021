@@ -1,5 +1,5 @@
 ![AI_Final_Project](https://user-images.githubusercontent.com/82214700/126353201-5fd4966d-8c0c-4ea6-a255-04039c4d90fd.PNG)
-'''
+```
 #knn
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
@@ -53,4 +53,4 @@ submission = pd.DataFrame({
         "Survived": predictions
     })
 submission.to_csv(r'C:\Users\COMPUTERS WAY\Desktop\Saad_Project\KNN.csv')
-'''
+```
